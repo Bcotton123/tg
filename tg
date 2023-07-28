@@ -1,1 +1,1 @@
-cd tg && python spam.py
+cd /data/data/com.termux/files/home/tg && python spam.py
